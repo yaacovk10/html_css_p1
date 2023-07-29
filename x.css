@@ -1,0 +1,29 @@
+header {
+    height: 10%;
+    background-color: #9AC5F4;
+    color: #FFFFFF;
+}
+
+main {
+    height: 85%;
+    background-color: #DBF4EE;
+}
+
+section {
+    border: 1px solid #FFFFFF;
+    padding: 10px;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #333333;
+}
+
+footer {
+    height: 5%;
+    background-color: #9AC5F4;
+    color: #FFFFFF;
+}
